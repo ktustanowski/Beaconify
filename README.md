@@ -1,4 +1,4 @@
-#Beaconify
+#Beaconify [![Build Status](https://travis-ci.org/ktustanowski/Beaconify.svg?branch=master)](https://travis-ci.org/ktustanowski/Beaconify)
 Simple and fast way to add beacons support to your application. 
 
 #Integration
