@@ -1,1 +1,3 @@
  language: objective-c
+xcode_project: Beaconify.xcworkspace
+xcode_scheme: Beaconify
