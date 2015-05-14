@@ -1,3 +1,5 @@
- language: objective-c
-xcode_workspace: Beaconify.xcworkspace
-xcode_scheme: BeaconifyTests
+language: objective-c
+script:
+- xctool test -workspace Beaconify.xcworkspace -scheme BeaconifyTests -sdk iphonesimulator ONLY_ACTIVE_ARCH=NO
+#xcode_workspace: Beaconify.xcworkspace
+#xcode_scheme: BeaconifyTests
