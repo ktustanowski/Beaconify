@@ -1,10 +1,10 @@
-#Beaconify [![Build Status](https://travis-ci.org/ktustanowski/Beaconify.svg?branch=master)](https://travis-ci.org/ktustanowski/Beaconify)
+# Beaconify [![Build Status](https://travis-ci.org/ktustanowski/Beaconify.svg?branch=master)](https://travis-ci.org/ktustanowski/Beaconify)
 Simple and fast way to add beacons support to your application. 
 
-#Integration
-##Dependencies
+# Integration
+## Dependencies
 You have to import CoreLocation Framework to your project.
-##Neolithic-style
+## Neolithic-style
 Get files from Beaconify/Classes and paste them in your application.
 ##Cocoapods
 Coming soon...
@@ -13,7 +13,7 @@ Remember about **changes in CoreLocation in iOS8** ->
 http://nevan.net/2014/09/core-location-manager-changes-in-ios-8/ 
 
 
-#Example
+# Example
 Imports.
 ```objective-c
 #import "KTLocationManager.h"
